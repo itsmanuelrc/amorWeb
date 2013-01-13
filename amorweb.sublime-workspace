@@ -363,7 +363,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2101,
+				"buffer_size": 2105,
 				"line_ending": "Windows"
 			}
 		},
@@ -379,7 +379,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 2779,
+				"buffer_size": 2712,
 				"line_ending": "Windows"
 			}
 		}
@@ -730,7 +730,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -738,7 +738,7 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2101,
+						"buffer_size": 2105,
 						"regions":
 						{
 							"TagLint":
@@ -748,8 +748,8 @@
 								"regions":
 								[
 									[
-										413,
-										429
+										418,
+										434
 									]
 								],
 								"scope": "variable.parameter"
@@ -758,17 +758,18 @@
 						"selection":
 						[
 							[
-								1633,
-								1633
+								39,
+								39
 							]
 						],
 						"settings":
 						{
 							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 39.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -819,25 +820,27 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 2779,
+						"buffer_size": 2712,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2665,
-								2665
+								1224,
+								1224
 							]
 						],
 						"settings":
 						{
 							"auto_name": "",
 							"class_or_id": "collage-container",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2046.0,
+						"translation.y": 1896.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
